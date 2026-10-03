@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+results/
+profiles/
+artifacts/
+*.ncu-rep
+*.nsys-rep
+.vscode/
+.idea/
+.DS_Store
